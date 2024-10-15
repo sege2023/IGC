@@ -1,0 +1,5 @@
+Numpy
+pillow
+Keras
+Tensorflow
+tqdm
