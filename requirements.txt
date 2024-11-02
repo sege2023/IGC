@@ -3,3 +3,4 @@ pillow
 Keras
 Tensorflow
 tqdm
+Numpy
